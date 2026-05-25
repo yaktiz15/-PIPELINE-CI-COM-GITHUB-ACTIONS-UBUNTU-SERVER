@@ -185,13 +185,6 @@ runs-on: self-hosted
 
 Após o commit e push, o workflow passou a executar diretamente no servidor Ubuntu configurado como runner.
 
-Evidência 4 — Runner Self-hosted
-
-Inserir:
-
-print do terminal Ubuntu mostrando o runner ativo;
-print do GitHub Actions indicando execução em self-hosted.
-Dificuldades encontradas
 
 Durante a atividade, algumas dificuldades foram encontradas:
 
