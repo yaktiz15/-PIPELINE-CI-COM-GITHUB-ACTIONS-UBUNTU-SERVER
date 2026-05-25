@@ -156,6 +156,7 @@ Settings → Actions → Runners → New self-hosted runner
 Foi selecionado:
 
 Linux → x64
+
 Comandos executados no Ubuntu
 mkdir actions-runner && cd actions-runner
 
@@ -167,6 +168,11 @@ tar xzf ./actions-runner-linux-x64.tar.gz
 ./config.sh --url https://github.com/SEU-USUARIO/devops-ci-activity --token TOKEN
 
 ./run.sh
+
+<img width="1918" height="1078" alt="Captura de tela 2026-05-25 155248" src="https://github.com/user-attachments/assets/60abe583-c74c-424b-bc1e-56f20b56565f" />
+
+
+
 Alteração no pipeline
 
 A linha:
