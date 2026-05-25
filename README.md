@@ -52,6 +52,8 @@ devops-ci-activity/
 └── .github/
     └── workflows/
         └── ci.yml
+
+        
 Arquivo calculadora.py
 def somar(a, b):
     return a + b
@@ -66,6 +68,8 @@ def dividir(a, b):
     if b == 0:
         raise ValueError("Não é possível dividir por zero")
     return a / b
+
+    
 Arquivo test_calculadora.py
 import pytest
 from calculadora import somar, subtrair, multiplicar, dividir
@@ -89,6 +93,8 @@ def test_dividir():
 def test_dividir_por_zero():
     with pytest.raises(ValueError):
         dividir(5, 0)
+
+        
 Arquivo requirements.txt
 pytest==7.4.0
 Evidência 2 — Estrutura do repositório
