@@ -93,11 +93,7 @@ Arquivo requirements.txt
 pytest==7.4.0
 Evidência 2 — Estrutura do repositório
 
-Inserir print do GitHub mostrando:
 
-arquivos Python;
-requirements.txt;
-diretório .github/workflows.
 Parte 3 — Configuração do Pipeline CI
 
 Foi criado um workflow no GitHub Actions responsável por:
