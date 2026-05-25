@@ -206,6 +206,8 @@ criação de workflows em YAML;
 utilização do Pytest para testes automatizados;
 configuração de runners auto-hospedados;
 integração entre GitHub e servidores Linux Ubuntu.
+
+
 Conclusão
 
 A atividade permitiu implementar com sucesso um pipeline de Integração Contínua utilizando GitHub Actions e Python. Além disso, foi possível configurar um runner self-hosted em um servidor Ubuntu, possibilitando maior controle sobre o ambiente de execução dos pipelines. O projeto demonstrou na prática conceitos fundamentais de DevOps, automação e integração contínua.
