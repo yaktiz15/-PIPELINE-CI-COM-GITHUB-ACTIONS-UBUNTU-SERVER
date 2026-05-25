@@ -31,14 +31,14 @@ git --version
 # Criar diretório de trabalho
 mkdir ~/devops-lab
 cd ~/devops-lab
-Evidência 1 — Preparação do ambiente
 
-Inserir print do terminal exibindo:
+<img width="1918" height="1078" alt="Captura de tela 2026-05-25 152035" src="https://github.com/user-attachments/assets/23bae110-12d0-41f7-ab35-0e06bfdea145" />
 
-atualização do sistema;
-instalação dos pacotes;
-versão do Python;
-versão do Git.
+<img width="1918" height="1078" alt="Captura de tela 2026-05-25 152109" src="https://github.com/user-attachments/assets/50adfd6d-bd59-496c-8f5d-9dd489958f99" />
+
+<img width="1918" height="1078" alt="Captura de tela 2026-05-25 152419" src="https://github.com/user-attachments/assets/1b1fc4cb-4330-41f5-b9eb-404e4292d5eb" />
+
+
 Parte 2 — Criação do Projeto Python
 
 Foi criado um repositório contendo uma aplicação simples de calculadora em Python juntamente com testes automatizados utilizando Pytest.
